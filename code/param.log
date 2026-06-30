@@ -1,0 +1,15 @@
+(A) Reynolds sweep (lid-driven cavity):
+  Re=  100 N=129 psi_p=-0.10332 centre=(0.617,0.734) BR=1.317e-05 BL=1.994e-06 iters=71500
+  Re=  400 N=129 psi_p=-0.11277 centre=(0.555,0.609) BR=6.427e-04 BL=1.451e-05 iters=41000
+  Re= 1000 N=129 psi_p=-0.11546 centre=(0.531,0.570) BR=1.690e-03 BL=2.144e-04 iters=64000
+  Re= 2000 N=129 psi_p=-0.11374 centre=(0.523,0.547) BR=2.365e-03 BL=6.629e-04 iters=129500
+  Re= 3200 N=129 psi_p=-0.10991 centre=(0.516,0.539) BR=2.633e-03 BL=9.492e-04 iters=180000
+  Re= 5000 N=161 psi_p=-0.10885 centre=(0.519,0.537) BR=2.867e-03 BL=1.205e-03 iters=200000
+  Re= 7500 N=161 psi_p=-0.09683 centre=(0.513,0.531) BR=2.904e-03 BL=1.291e-03 iters=200000
+(B) Rayleigh sweep (natural convection):
+  Ra=1e+03 N=81 Nu=1.120 (ref 1.118, 0.17%) |psi|max=1.175
+  Ra=1e+04 N=101 Nu=2.256 (ref 2.243, 0.60%) |psi|max=5.067
+  Ra=1e+05 N=129 Nu=4.553 (ref 4.519, 0.76%) |psi|max=9.615
+  Ra=1e+06 N=161 Nu=8.928 (ref 8.800, 1.45%) |psi|max=16.844
+Nu correlation: Nu = 0.141 * Ra^0.301
+Saved parameter_summary.json

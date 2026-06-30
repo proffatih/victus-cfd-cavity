@@ -1,0 +1,5 @@
+Re=  100 N=257 iters=338000 t=1289.6s u_L2=2.3004e-03 v_L2=4.6582e-03 psi_min=-0.10347 (ref -0.10342, 0.05%)
+Re=  400 N=257 iters=190500 t= 636.9s u_L2=8.9305e-04 v_L2=3.6352e-02 psi_min=-0.11369 (ref -0.11391, 0.19%)
+Re= 1000 N=257 iters=180500 t= 574.3s u_L2=1.8054e-03 v_L2=6.6132e-03 psi_min=-0.11807 (ref -0.11793, 0.12%)
+
+Saved verification_summary.json
